@@ -11,5 +11,5 @@ def reverse_string(input_str):
     return input_str[::-1]
 
 print(reverse_string("hii"))  # Output: "iih"
-print(reverse_string("Aditya"))  # Output: "aytidA"
-print(reverse_string("Mhetre"))  # Output: "ertehM"
+print(reverse_string("coder"))  # Output: "redoc"
+print(reverse_string("aditya"))  # Output: "erte"
