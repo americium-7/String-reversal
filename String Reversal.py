@@ -12,4 +12,4 @@ def reverse_string(input_str):
 
 print(reverse_string("hii"))  # Output: "iih"
 print(reverse_string("coder"))  # Output: "redoc"
-print(reverse_string("aditya"))  # Output: "erte"
+print(reverse_string("aditya"))  # Output: "aytida"
